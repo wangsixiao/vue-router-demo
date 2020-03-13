@@ -19,3 +19,9 @@ npm install vue-router --save
 3）创建实例，传入配置；
 
 4）在vue实例中挂载路由实例；
+
+#### 路由映射
+```
+<router-link to="/about">about</router-link>
+<router-view/>
+```
