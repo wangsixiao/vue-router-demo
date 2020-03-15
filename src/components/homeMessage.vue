@@ -1,10 +1,5 @@
 <template>
-  <div>
-    <div>this is home</div>
-    <router-link to="/home/page">page</router-link>
-    <router-link to="/home/message">message</router-link>
-    <router-view/>
-  </div>
+  <div>this is home message</div>
 </template>
 
 <script>
